@@ -12,5 +12,11 @@ public class devops22 {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome to devops");
 	}
+	class NewClassA05{
+		
+		public void method() {
+			System.out.println("Welcome to devopslab");
+		}
+	}
 
 }
